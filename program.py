@@ -1,8 +1,5 @@
 #Project 3, Whistful Hearts
 #Knowledge of game play required to understand code assumptions
-#Constantinos Kavadias, 664790
-#ckavadias@student.unimelb.edu.au
-#May 2015
 
 #-----------------------------------------------------------------------------#
 
